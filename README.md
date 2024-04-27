@@ -13,7 +13,7 @@
 * При составлении списка проверок должны учитываться различные варианты состояний страниц. Например, при проверке функции «Мои отзывы» проверить не только состояние без отзывов, но и с ними.
 * Список проверок функционала личного кабинета должен быть без учёта хедера и футера страницы, то есть то, что есть в этой [области](https://drive.google.com/file/d/1rn6z04Erx7QjUmmTm4-R5MNNBgXpRSP2/view?usp=sharing).
 
-**Результат выполнения задачи 1:** [чеклист](https://docs.google.com/spreadsheets/d/14xLjhdpHOqFseAbqinPjaybk_UXFz4ViOO18jmhqUE4/edit#gid=0)
+**Результат выполнения задачи 1:** [чеклист](https://docs.google.com/spreadsheets/d/1IsQvUCC8zUXDlSj_WIi_jUB7Va8CmU8X/edit#gid=1488828175)
 
 ## Задание 2
 
@@ -25,7 +25,7 @@
 
 2.2.*  Написать свои вопросы по этим требованиям. Они могут касаться не описанных, но важных сценариев, граничных значений и подобных проблем.
 
-**Результат выполнения задачи 2.1.:** [набор тест-кейсов](https://docs.google.com/spreadsheets/d/1KpmLy28eZsnNnw8lPXzbOeHDyKiqHIpLKA6r7EHnafk/edit#gid=0)  
+**Результат выполнения задачи 2.1.:** [набор тест-кейсов](https://docs.google.com/spreadsheets/d/1ClzSZvLSL1KG1rP8gpOYMnsZzTx8ImKM/edit#gid=1542496951)  
 **Результат выполнения задачи 2.2.:** [тестирование требований](https://docs.google.com/document/d/1nmt0VIZmHBugtX3HB2yCf7dpcnKTsr-ZDmgup2lBqyg/edit)
 
 ## Задание 3
