@@ -1,13 +1,13 @@
 # Курсовой проект к модулю «Ручное тестирование веб-приложений»
 
 ## Описание работы:
-- Объект тестирования: сайт интернет-магазина https://henderson.ru.
-- В качестве результата работы заполнить [таблицу](https://docs.google.com/spreadsheets/d/1Nl2_n46HvTIdv7JpbNLjOtMcWSuYpblZjyxlsBFKanY/edit?usp=sharing)
-- [пример форматирования таблиц](https://docs.google.com/document/d/1yDj9YWZ6wF7v8edq_aJkSFR9g7QgUil5yuuZgbHDzvE/edit?usp=sharing).
+- Объект тестирования: сайт интернет-магазина [Henderson.ru](https://henderson.ru).
+- В качестве результата работы заполнить [таблицу](https://docs.google.com/spreadsheets/d/1dG3X82H-t1df6YwargLhMh1n6inJeRvO/edit?usp=sharing&ouid=109284492514042889329&rtpof=true&sd=true)
+
 
 ## Задание 1
 
-Написать чеклист для функциональной проверки [личного кабинета зарегистрированного авторизованного пользователя](https://henderson.ru/cabinet/), включая функционал разделов, на сайте https://henderson.ru/.
+Составить **чеклист** для функциональной проверки [личного кабинета зарегистрированного авторизованного пользователя](https://henderson.ru/cabinet/), включая функционал разделов, на сайте [Henderson.ru](https://henderson.ru).
 * Чеклист должен представлять собой структурированный многоуровневый список, который содержит набор функциональных позитивных и негативных проверок клиентской стороны компонентов объекта тестирования.
 * Каждый пункт проверки должен быть в отдельной ячейке списка и со своим приоритетом.
 * При составлении списка проверок должны учитываться различные варианты состояний страниц. Например, при проверке функции «Мои отзывы» проверить не только состояние без отзывов, но и с ними.
@@ -17,7 +17,7 @@
 
 ## Задание 2
 
-2.1. Написать набор тест-кейсов на проверку функционала восстановления пароля.
+2.1. Составить набор **тест-кейсов** на проверку функционала восстановления пароля.
 * Написать минимум 20 тест-кейсов, которые должны покрывать всё, что описано в требованиях по
 [ссылке](https://docs.google.com/document/d/12deDbATIy0Xps8MiWvumNqHISfAlFc4etY8F4lPcqJ4/edit?usp=sharing), учитывать позитивные и негативные кейсы и включать в себя полные циклы восстановления пароля.
 * Проверить не только и не столько саму форму, сколько процесс восстановления с применением техник тест-дизайна.
@@ -26,13 +26,13 @@
 2.2.*  Написать свои вопросы по этим требованиям. Они могут касаться не описанных, но важных сценариев, граничных значений и подобных проблем.
 
 **Результат выполнения задачи 2.1.:** [набор тест-кейсов](https://docs.google.com/spreadsheets/d/1ClzSZvLSL1KG1rP8gpOYMnsZzTx8ImKM/edit#gid=1542496951)  
-**Результат выполнения задачи 2.2.:** [тестирование требований](https://docs.google.com/document/d/1nmt0VIZmHBugtX3HB2yCf7dpcnKTsr-ZDmgup2lBqyg/edit)
+**Результат выполнения задачи 2.2.:** [тестирование требований](https://docs.google.com/document/d/13ntHdD7vNhCdkzgxzaxAucD2uUYNnrh9/edit?usp=sharing&ouid=109284492514042889329&rtpof=true&sd=true)
 
 ## Задание 3
 
 На основе [скриншота](https://drive.google.com/file/d/1ucv3JFqEGY7ijVtP0Qn0BrdV2ipqYu37/view?usp=sharing) создать не менее 3х баг-репортов.
 
-**Результат выполнения задачи 3:** [поиск багов](https://docs.google.com/spreadsheets/d/1267qcJXNsoAqgrIE8fovEI5406LjJD3asafHEjgwArM/edit#gid=0)
+**Результат выполнения задачи 3:** [поиск багов](https://docs.google.com/spreadsheets/d/15ayAQ83eaT9cJcDfzJCsPcvvXFiAgB7A/edit?usp=sharing&ouid=109284492514042889329&rtpof=true&sd=true)
 
 ## Задание 4
 
@@ -51,4 +51,4 @@
 **Результат выполнения задачи 5:** [скриншот искомого превью](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/preview.jpg)
 
 ## Результат тестирования:
-[Курсовой проект "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1D3EToOChOqyKHe77KacDb0y5-HhRKWmTiSsM08FQRgM/edit#gid=0)
+[Курсовой проект "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1dG3X82H-t1df6YwargLhMh1n6inJeRvO/edit?usp=sharing&ouid=109284492514042889329&rtpof=true&sd=true)
