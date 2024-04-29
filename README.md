@@ -39,7 +39,7 @@
 Протестировать вёрстку страницы карточки товара с максимальной и минимальной ценой - 1 рубль и 10 000 000 рублей соответственно.
 Предоставить решение в виде скриншотов страницы карточки товара с минимальной и максимальной ценой. Важно, чтобы было видно, с помощью чего вы изменили эту цену.
 
-**Результат выполнения задачи 4:** [скриншот карточки с минимальной ценой](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/minimum%20price.jpg),  
+**Результат выполнения задачи 4:** [скриншот карточки с минимальной ценой](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/minimum_price.jpg),  
 [скриншот карточки с максимальной ценой](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/maximum_price.png)
 
 ## Задание 5
