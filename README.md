@@ -40,7 +40,7 @@
 Предоставить решение в виде скриншотов страницы карточки товара с минимальной и максимальной ценой. Важно, чтобы было видно, с помощью чего вы изменили эту цену.
 
 **Результат выполнения задачи 4:** [скриншот карточки с минимальной ценой](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/minimum%20price.jpg),  
-[скриншот карточки с максимальной ценой](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/maximum%20price.jpg)
+[скриншот карточки с максимальной ценой](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/maximum_price.png)
 
 ## Задание 5
 
@@ -48,7 +48,7 @@
 Необходимо изучить ответы и запросы при работе с сайтом, найти запрос, в котором есть нужные параметры, найти, как выглядят параметры `deviceUUID`, `requestID` и `status`, и приложить скриншот искомого превью в таблицу с решениями.  
 Задание надо выполнять с выключенным VPN и выключенными блокировщиками рекламы.
 
-**Результат выполнения задачи 5:** [скриншот искомого превью](https://github.com/Ekaterina-Isabel/Ekaterina-Isabel/blob/main/preview.jpg)
+**Результат выполнения задачи 5:** [скриншот искомого превью](https://raw.githubusercontent.com/Ekaterina-Isabel/manual_testing_of_web_applications_Coursework/main/preview.jpg)
 
 ## Результат тестирования:
 [Курсовой проект "Ручное тестирование веб-приложений"](https://docs.google.com/spreadsheets/d/1dG3X82H-t1df6YwargLhMh1n6inJeRvO/edit?usp=sharing&ouid=109284492514042889329&rtpof=true&sd=true)
